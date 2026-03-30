@@ -19,6 +19,11 @@ You may also see any lint errors in the console.
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+
+### `Images`
+<img width="801" height="801" alt="image" src="https://github.com/user-attachments/assets/e36d1d2e-8332-4f7d-91d9-d56fcdd5614a" />
+
+
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
