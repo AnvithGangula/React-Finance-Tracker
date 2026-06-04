@@ -3,7 +3,7 @@ import {
   PlusCircle, Wallet, 
   Trash2, LayoutDashboard, ExternalLink, 
   BarChart3, Calendar, ShieldCheck, Mail, 
-  Lock, User, ArrowRight, Eye, EyeOff, Github, LogOut 
+  Lock, User, ArrowRight, Eye, EyeOff, LogOut 
 } from 'lucide-react';
 import { 
   BarChart, Bar, Tooltip, ResponsiveContainer, Cell 
